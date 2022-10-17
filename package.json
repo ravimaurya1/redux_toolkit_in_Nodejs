@@ -1,0 +1,22 @@
+{
+  "name": "redux_toolkit_in_nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ravimaurya1/redux_toolkit_in_Nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ravimaurya1/redux_toolkit_in_Nodejs/issues"
+  },
+  "homepage": "https://github.com/ravimaurya1/redux_toolkit_in_Nodejs#readme",
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.8.6"
+  }
+}
